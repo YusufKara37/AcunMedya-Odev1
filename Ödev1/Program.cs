@@ -2,7 +2,7 @@
 
 //örnek 1
 
-using System.ComponentModel.Design;
+
 
 Console.WriteLine("lütfen bir sayı giriniz");
 int sayı = Convert.ToInt32(Console.ReadLine());
